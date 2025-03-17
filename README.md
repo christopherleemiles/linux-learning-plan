@@ -23,9 +23,6 @@ This training plan is designed for a network architect with 15+ years of experie
 4. **Offensive Security Certified Professional (OSCP)** (longer-term goal)
 
 ---
-
-# Weeks 1-2: Detailed Daily Plan for Linux System Administration Fundamentals
-
 ## Pre-Setup Day (Before Week 1)
 **Focus: Setting Up Cloud-Based Linux Practice Environments**
 
