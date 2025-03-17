@@ -1,4 +1,3 @@
-
 # Weeks 1-2: Detailed Daily Plan for Linux System Administration Fundamentals
 
 ## Week 1
@@ -56,13 +55,13 @@
 
 ### Saturday (3-4 hours)
 **Focus: Home Lab Setup**
-- **Resource**: VirtualBox documentation
-  - **Where to find**: https://www.virtualbox.org/manual/UserManual.html
-  - **Alternative**: YouTube tutorial - "How to Install Ubuntu Server on VirtualBox" by LearnLinuxTV
-    - https://www.youtube.com/watch?v=YtH9D2SqBqA
+- **Resource**: VMware Workstation documentation
+  - **Where to find**: https://docs.vmware.com/en/VMware-Workstation-Pro/
+  - **Alternative**: YouTube tutorial - "How to Install Ubuntu Server on VMware Workstation" by LearnLinuxTV
+    - https://www.youtube.com/watch?v=HmehDKO5xyI
 - **Practice**:
   - Set up two VMs: Ubuntu Server and CentOS/RHEL
-  - Configure networking between VMs
+  - Configure networking between VMs (using VMware's NAT and Host-only options)
   - Set up SSH access between machines
 - **Goal**: Create a lab environment for future practice
 
