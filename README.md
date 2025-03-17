@@ -91,7 +91,7 @@ This training plan is designed for a network architect with 15+ years of experie
 
 For the most consistent experience with this training plan, we recommend:
 
-1. **Primary Option**: TryHackMe's Linux Fundamentals rooms
+1. **Primary Option**: TryHackMe's Linux Fundamentals rooms (Linux Fundamentals 1 is free, all others require Premium)
    - Complete environment with all necessary tools
    - Designed specifically for learning
    - Interactive exercises align with our training goals
