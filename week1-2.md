@@ -1,11 +1,17 @@
-# Weeks 1-2: Detailed Daily Plan for Linux System Administration Fundamentals
-
 ## Week 1
+
+> **Note**: Since the full VM lab environment won't be set up until Saturday, the first five days use cloud-based Linux environments for hands-on practice.
 
 ### Monday (1-2 hours)
 **Focus: File System Management Basics**
 - **Resource**: Linux Journey - "Grasshopper" section on file system
   - **Where to find**: https://linuxjourney.com/lesson/filesystem-hierarchy
+- **Practice Environment Options**:
+  - **Option 1**: Use an existing Ubuntu installation if available
+  - **Option 2**: Use a browser-based Linux terminal:
+    - [JSLinux](https://bellard.org/jslinux/) (free, no signup)
+    - [Learn Linux](https://linuxzoo.net/) (free)
+    - [KataKoda Linux Playground](https://www.katacoda.com/courses/ubuntu/playground) (free)
 - **Practice**: 
   - Navigate and create complex directory structures
   - Use find and grep to locate specific files
@@ -17,6 +23,9 @@
 - **Resource**: A Cloud Guru - Linux Command Line tutorial
   - **Where to find**: https://acloudguru.com/course/the-system-administrators-guide-to-bash-scripting (free trial available)
   - **Alternative**: https://www.digitalocean.com/community/tutorials/linux-commands-every-developer-should-know (free)
+- **Practice Environment**:
+  - Continue using the same environment from Monday
+  - Alternative: [TryHackMe Basic Linux Practice Room](https://tryhackme.com/room/linux1) (free account required)
 - **Practice**:
   - Use du, df, and ncdu to analyze disk usage
   - Practice with awk and sed for text processing
@@ -27,6 +36,9 @@
 **Focus: User and Group Management**
 - **Resource**: TryHackMe - Linux Fundamentals Part 2
   - **Where to find**: https://tryhackme.com/room/linuxfundamentalspart2 (free account required)
+- **Practice Environment**:
+  - TryHackMe provides an interactive environment for this lesson
+  - Alternative: Use [AWS Cloud9](https://aws.amazon.com/cloud9/) (requires AWS account, free tier available)
 - **Practice**:
   - Create users with specific home directories
   - Assign users to groups
@@ -37,6 +49,9 @@
 **Focus: File Permissions**
 - **Resource**: Linux Journey - "Permissions" section
   - **Where to find**: https://linuxjourney.com/lesson/file-permissions
+- **Practice Environment**:
+  - Continue using TryHackMe or your chosen cloud terminal
+  - Alternative: Set up a temporary Docker container: `docker run -it ubuntu bash` (requires Docker installed locally)
 - **Practice**:
   - Set complex permissions with chmod
   - Change ownership with chown
@@ -47,6 +62,9 @@
 **Focus: Basic Package Management**
 - **Resource**: DigitalOcean tutorials on apt and dpkg
   - **Where to find**: https://www.digitalocean.com/community/tutorials/how-to-manage-packages-in-ubuntu-and-debian-with-apt-get-apt-cache
+- **Practice Environment**:
+  - Continue using your chosen cloud environment
+  - Alternative: [Killercoda Ubuntu Playground](https://killercoda.com/playgrounds/scenario/ubuntu) (free)
 - **Practice**:
   - Install, update, and remove packages
   - Hold package versions
