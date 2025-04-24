@@ -11,7 +11,6 @@
   - **Option 2**: Use a browser-based Linux terminal:
     - [JSLinux](https://bellard.org/jslinux/) (free, no signup)
     - [Learn Linux](https://linuxzoo.net/) (free)
-    - [KataKoda Linux Playground](https://www.katacoda.com/courses/ubuntu/playground) (free)
 - **Practice**: 
   - Navigate and create complex directory structures
   - Use find and grep to locate specific files
